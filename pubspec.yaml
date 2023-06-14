@@ -62,11 +62,33 @@ flutter:
 assets:
   - assets/images/hon.jpg
   - assets/images/yuri.jpg
-  - assets/images/gachan.jpg
-  - assets/images/kamazi.jpg
-  - assets/images/kar.jpg
-  - assets/images/swan.jpg
-
+  - aseets/images/mainlogo.png
+  - assets/images/gaegaebi.jpg
+  - assets/images/kkachi.jpg
+  - assets/images/kkoekkoli.jpg
+  - assets/images/kkwong.jpg
+  - assets/images/ppeokkugi.jpg
+  - assets/images/ttaogi.jpg
+  - assets/images/jebi.jpg
+  - assets/images/bluebird.jpg
+  - assets/images/baeglo.jpg
+  - assets/images/palsaegjo.jpg
+  - assets/images/hwanglo.jpg
+  - assets/images/sotbueong-i.jpg
+  - assets/images/multtesae.jpg
+  - assets/images/ulsae.jpg
+  - assets/images/doyosae.jpg
+  - assets/images/hingdungsae.jpg
+  - assets/images/nolangttagsae.jpg
+  - assets/images/geom-eungaseummulttesae.jpg
+  - assets/images/doesae.jpg
+  - assets/images/milhwabuli.jpg
+  - assets/images/sansae.jpg
+  - assets/images/won-ang.jpg
+  - assets/images/soeoli.jpg
+  - assets/images/cheondung-oli.jpg
+  - assets/images/mulsae.jpg
+  - assets/images/kkamagwi.jpg
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 
